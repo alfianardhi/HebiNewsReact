@@ -33,8 +33,8 @@ class About extends React.Component{
               <br/><br/>
               <Typography variant="body3" gutterBottom>
                 Source Code :    
-                <a href="https://github.com/alfianardhi/HEBINewsappReact.git" style={{ color: '#000'}} target="_blank">
-                        https://github.com/alfianardhi/HEBINewsappReact.git
+                <a href="https://github.com/alfianardhi/HebiNewsReact.git" style={{ color: '#000'}} target="_blank">
+                https://github.com/alfianardhi/HebiNewsReact.git
                 </a>
               </Typography>
               <br/>
